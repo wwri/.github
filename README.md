@@ -1,2 +1,2 @@
 # .github
-Public organization profile to introduce the project and the team to anyone who comes to visit
+Public organization profile to introduce the project and the team to anyone who comes to visit. This top-level `README` is for describing the repo. The `README` in the `profile/` folder is what's presented on the organization's home page. More information can be [found here](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile) on how that works.
